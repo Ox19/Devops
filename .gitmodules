@@ -4,3 +4,6 @@
 [submodule "Clase_2/hola-mundo-cf"]
 	path = Clase_2/hola-mundo-cf
 	url = https://github.com/Ox19/hola-mundo-cf.git
+[submodule "Clase_3/ci_cd_automation"]
+	path = Clase_3/ci_cd_automation
+	url = https://github.com/Ox19/ci_cd_automation.git
